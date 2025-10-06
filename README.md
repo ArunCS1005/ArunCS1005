@@ -1,7 +1,7 @@
 <h1 align="center"><b><u style="color:#0078D7;">Hello World 👋, I'm Arun Kumar</u></b></h1>
 
 <h3 style="color:#32CD32; font-style: italic;">
-Driven by a <mark style="background:#e2ffd8; color:#3b6e22; padding: 2px 6px; border-radius: 4px;">Passionate about technology</mark>, I explore its diverse domains, My GitHub highlights projects in peer-to-peer networking, machine learning visualization, collaborative tools, and automation. I enjoy solving real-world challenges with code and advancing through open-source collaboration."
+Driven by a Passion for technology, I explore its diverse domains, My GitHub highlights projects in peer-to-peer networking, machine learning visualization, collaborative tools, and automation. I enjoy solving real-world challenges with code and advancing through open-source collaboration."
 </h3>
 
 <p align="center" style="margin-top: 20px;">
